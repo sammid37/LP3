@@ -4,9 +4,10 @@ Atividades e projetos desenvolvidos na linguagem funcional Elixir durante a disi
 Em breve novas atualizações.
 
 # 💾 Projetos
+Projetos desenvolvidos.
 
 ## ✏️ Projeto I
-Em breve.
+Em breve descrição.
 
 ## ✏️ Projeto II
-Em breve.
+Em breve descrição.
